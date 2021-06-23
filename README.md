@@ -1,6 +1,6 @@
-<img align=right width="450" height="450" src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif">
+<img align=right width="430" height="430" src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif">
 
-<h1>👋 Olá, eu sou Vitoria Pacheco</h1>
+<h2>👋 Olá, eu sou Vitoria Pacheco</h2>
 
 <p>👀 Estou aprendendo mais sobre desenvolvimento
 <br> 💻 Apaixonada por Tecnologia
