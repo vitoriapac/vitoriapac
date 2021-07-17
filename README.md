@@ -13,18 +13,18 @@
   <!<img align="center" alt="React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GIT" height="45" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <!<img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!<img align="center" alt="Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
-<div> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <div >
   <a href = "mailto:vitoriac.pac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoriacpac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-<h2>Obrigado por visitar!</h2>
+  </div>
 
 <!---
 vitoriapac/vitoriapac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
