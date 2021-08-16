@@ -1,4 +1,4 @@
-<img align=right width="430" height="430" src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif">
+<img align=right width="300" height="300" src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif">
 
 <h2>👋 Olá, eu sou Vitoria Pacheco</h2>
 
