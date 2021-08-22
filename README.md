@@ -22,10 +22,11 @@
 
 ##
   <div align="center">
-    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vitoriapac&layout=compact&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriapac&show_icons=true&t&theme=tokyonight"/>
   </div>
-  
+ 
+##
   <div align="center" >
   <a href = "mailto:vitoriac.pac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoriacpac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
