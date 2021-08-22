@@ -22,8 +22,8 @@
 
 ##
   <div align="center">
-    <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapac&langs_count=6)](https://github.com/anuraghazra/github-readme-statsCompact&theme=tokyonight"/>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=vitoriapac&show_icons=true&t&theme=tokyonight"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapac&langs_count=6)](https://github.com/anuraghazra/github-readme-statsCompact&theme=tokyonight"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vitoriapac&show_icons=true&t&theme=tokyonight"/>
   </div>
   
   <div align="center" >
