@@ -14,10 +14,7 @@
   <img align="center" alt="Ts" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="45" width="60" padding-top="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <!<img align="center" alt="Java" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="GIT" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <!<img align="center" alt="Python" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!<img align="center" alt="Csharp" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
