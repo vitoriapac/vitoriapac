@@ -1,4 +1,4 @@
-<img align=right width="460" height="268" src="https://media.giphy.com/media/l10yGFKGnvSgkwrdAE/giphy.gif">
+<img align=right width="300" height="300" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 <h2>👋 Olá, eu sou Vitoria Pacheco</h2>
 
@@ -13,7 +13,7 @@
   <img align="center" alt="Js" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!<img align="center" alt="Angular" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="NodeJs" height="45" width="60" padding-top="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <!<img align="center" alt="Java" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="GIT" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <!<img align="center" alt="Python" height="45" width="60" padding-top="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
